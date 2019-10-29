@@ -1,7 +1,0 @@
-﻿  fputc_v2.c
-C:\File_Processing\eliotjang_project\FileProcessing\FileProcessing\fputc_v2.c(6,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
-C:\File_Processing\eliotjang_project\FileProcessing\FileProcessing\fputc_v2.c(17,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
-fputc_v2.obj : error LNK2005: _main이(가) fputc.obj에 이미 정의되어 있습니다.
-C:\File_Processing\eliotjang_project\FileProcessing\Debug\FileProcessing.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
