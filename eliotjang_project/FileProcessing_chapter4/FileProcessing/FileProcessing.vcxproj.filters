@@ -24,5 +24,20 @@
     <ClCompile Include="fputc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fgets_fputs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fprintf,fscanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fprintf,fscanf2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="read_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="create_file.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

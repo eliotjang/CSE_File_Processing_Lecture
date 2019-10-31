@@ -1,1 +1,22 @@
-﻿  FileProcessing.vcxproj -> C:\File_Processing\eliotjang_project\FileProcessing_chapter4\Debug\FileProcessing.exe
+﻿  create_file.cpp
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(18,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(20,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(21,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(23,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(25,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(26,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(28,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(30,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(31,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\File_Processing\eliotjang_project\FileProcessing_chapter4\FileProcessing\create_file.cpp(39,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+  FileProcessing.vcxproj -> C:\File_Processing\eliotjang_project\FileProcessing_chapter4\Debug\FileProcessing.exe
