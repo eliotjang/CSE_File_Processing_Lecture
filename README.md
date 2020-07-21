@@ -5,6 +5,7 @@
 ## 활용한 언어
 
 - C
+- Python
 
 ## 배운 내용
 
@@ -25,6 +26,7 @@
 ## Language
 
 - C
+- Python
 
 ## Contents
 
